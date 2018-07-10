@@ -1,4 +1,6 @@
 this is just a trial 
 ;
-i am now editing this file;
+i am now editing this file on remote then pulling it;
+pull worked ;
+i am now editing this file on local then pushing it;
 
